@@ -2,7 +2,7 @@
   "name": "jj4unity",
   "displayName": "JJ4Unity",
   "description": "This is a VSCode extension to facilitate the use of Unity within Visual Studio Code.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "onsemy",
   "engines": {
     "vscode": "^1.94.0"
